@@ -1,7 +1,7 @@
 Hi 👋 My name is Zemichael (Zemi) Gebreyohannes
 ===============================================
 
-Computer Science UG| Old Dominion University
+Computer Science | Data Science | Old Dominion University
 --------------------------------------------
 
 Hi, I am a third year student at Old Dominion University with experience in Python, Java, and C++. Interested in software engineering, data science, and finance.
